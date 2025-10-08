@@ -30,7 +30,7 @@
 # 2.6. https://github.com/lessWronger/Data-Science-For-Beginners-from-scratch-SENATOROV/pull/1
 # 2.7. https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/issues?q=state%3Aclosed%20label%3Aenhancement
 # 2.8. https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/commit/fb107e0ce340e616c8e93298b2a851b03d890c49
-# 2.9.
+# 2.9. Для работы в разных ветках своего форка, чтобы в дальнейшем их объединить и отправить пул реквест в исходный репозиторий.
 #
 # 3. Как внести вклад в чужой проект (8 шагов)
 # 	1.	Найти подходящий issue.
